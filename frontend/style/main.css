@@ -1,0 +1,262 @@
+body {
+    background-color: #F5EAD4 !important;
+}
+
+
+.navbar-brand-item {
+    font-Family: 'Montserrat';
+    font-weight: 700;
+    font-size: 30px;
+    color: #E78A35;  
+}
+
+.navbar-brand {
+    font-Family: 'Montserrat';
+    font-weight: 700;
+    font-size: 15px; 
+    color: black;
+    margin-bottom: 10px;
+    margin-right: 0%;
+}
+
+.home-section {
+    border-right: 2px solid black ;
+}
+
+.nav-item {
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: black;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F5EAD4 !important;
+    border-bottom: 3px solid #FF8409;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: #E3C16A !important;
+}
+
+.welcoming-section .btn-cta img {
+    width: 900px;
+    margin-left: 80px;
+    padding-left: 10%;
+}
+
+.welcoming-section-item .btn-cta img {
+    width: 650px;
+    margin-left: 200px;
+    padding-left: 10%;
+}
+
+/* Hero Section */
+.hero-section h1 {
+    font-family: Poppins;
+    font-size: 62px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 96px;
+    color: rgb(255, 123, 0)  !important ;
+   
+}
+
+.hero-section h3 {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 62px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 96px;
+    color: #fcff4d !important ;
+    opacity: 0.5;
+    bottom: 180px;
+    right: 315px;
+   
+}
+
+
+.hero-section img {
+    width: 400px;
+    margin-left: 150px;
+}
+
+.hero-section h2 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: left;
+    margin-left: 219px;
+    color: #05491875;
+}
+
+.hero-section p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #054918;
+    text-shadow: -3px -1px 0px #75d493;
+}
+
+.hero-section-item h1 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    text-align: left;
+    color:  #eb0c0c;
+}
+
+.hero-section-item h3 {
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    text-align: left;
+    color: #1D53DF;
+    opacity: 0.5;
+    bottom: 1px;
+    right: 390px;
+}
+
+
+.hero-section-item h4 {
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    text-align: left;
+    color: yellow;
+    opacity: 0.5;
+    bottom: 1px;
+    right: 398px;
+}
+
+
+.hero-section-item h2 {
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 30px;
+    margin-left: 250px;
+    color: #999191;
+    margin-top: 19px;
+}
+/* Tutup Hero Section */
+
+/* Albums Section */
+
+
+.albums-img {
+    margin: 0px;
+}
+
+.frame {
+
+    /* Group 3 */
+    position: absolute;
+    width: auto;
+    height: 441px;
+    right: 50px;
+    left: -40px;
+    top: -56px;
+
+}
+
+.albums-name {
+    margin-left: 80px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+.albums-name-2 {
+    margin-left: 120px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+.albums-name-3 {
+    margin-left: 65px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+.albums-name-4 {
+    margin-left: 42px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+.albums-text {
+    margin-left: 44px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+.albums-year {
+    margin-left: 40px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+}
+
+/* Tutup Album Section */
+
+/* Footer */
+.text-footer {
+    margin-left: 300px;
+    text-align: right;
+    color: #999191;
+}
+
+.footer-small {
+    background-color:  #0B0D49;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    background-color: whitesmoke !important;
+}
+
+
+/* Tutup Footer */
